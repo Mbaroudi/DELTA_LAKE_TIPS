@@ -16,9 +16,6 @@ Welcome to the Delta Lake, Apache Iceberg, and Spark Tips repository! This repos
 - **delta_iceberg_integration.ipynb**
   - Showcases the integration of Delta Lake and Apache Iceberg, demonstrating how to leverage the strengths of both in a unified data management strategy.
 
-- **scd7.ipynb**
-  - Additional examples and explanations for implementing Type 7 SCD, exploring more complex scenarios and use cases.
-
 ## Quick Start
 
 Clone this repository to get started:
